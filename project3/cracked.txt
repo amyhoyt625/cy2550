@@ -14,7 +14,7 @@ acetylesorc:scooter
 louthnso:yankees
 aimetrans:dakota
 aquaverit:computer
-fortuneud::merlin
+fortuneud:merlin
 lynnaps:555555
 dubyabot:hockey
 daysisende:shadow
